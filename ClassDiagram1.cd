@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.Cabeceradecarrito">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Cabeceradecarrito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.CamarasyAccesorios">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAARAAAAgAAAAAAgAAAAAAA=</HashCode>
+      <FileName>CamarasyAccesorios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.CarritoDeCompras">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarritoDeCompras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.Cliente">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIEAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.Detalledelcarrito">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detalledelcarrito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.Empresa">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.HistorialDePedidos" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAIAAAEA=</HashCode>
+      <FileName>HistorialDePedidos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.ListarClientesRegistrados">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="InstalacionyVentaDeCamarasDeSeguridad.ListarClientesRegistrados.ListadoClientes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ListarClientesRegistrados.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListarClientesRegistrados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.Menu">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.Program">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.ServicioalCliente">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAACAAAA=</HashCode>
+      <FileName>ServicioalCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.Serviciodeinstalacion">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serviciodeinstalacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstalacionyVentaDeCamarasDeSeguridad.StockCamarasyAccesorios" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockCamarasyAccesorios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
